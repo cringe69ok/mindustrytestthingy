@@ -1,1 +1,9 @@
-
+type: flying
+weapons: [
+  {
+    bullet: {
+      type: MissileBulletType
+      damage: 694
+    }
+  }
+]
