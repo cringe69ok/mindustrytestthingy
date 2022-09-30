@@ -1,0 +1,8 @@
+name: "goofy-ahh-mod"
+displayName: "This isn't a mod."
+author: Yourself
+description: "Hey, Ho!"
+version: "1.0"
+minGameVersion: "138"
+dependencies: [ ]
+hidden: false
